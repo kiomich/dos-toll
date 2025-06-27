@@ -19,6 +19,7 @@ The author assumes <strong>no responsibility</strong> for any misuse, damage, or
 
 </details>
 #how to install
+
 "pip install PyQt5 aiohttp requests"
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
