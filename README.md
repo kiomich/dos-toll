@@ -20,5 +20,8 @@ The author assumes <strong>no responsibility</strong> for any misuse, damage, or
 </details>
 
 ### how to install
+install `PyQt5 aiohttp requests`
+
+Run `python main.py` to start the tool.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
