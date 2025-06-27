@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
+                                        #ddos toll              
 <details>
 <summary><strong>⚠️ Disclaimer (click to expand)</strong></summary>
 
@@ -17,3 +17,4 @@ The author assumes <strong>no responsibility</strong> for any misuse, damage, or
 </div>
 
 </details>
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
