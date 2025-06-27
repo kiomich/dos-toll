@@ -1,3 +1,4 @@
+![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
 <details>
 <summary><strong>⚠️ Disclaimer (click to expand)</strong></summary>
 
