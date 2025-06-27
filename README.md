@@ -18,6 +18,7 @@ The author assumes <strong>no responsibility</strong> for any misuse, damage, or
 </div>
 
 </details>
+
 #how to install
 
 "pip install PyQt5 aiohttp requests"
