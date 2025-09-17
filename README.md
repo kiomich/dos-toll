@@ -1,4 +1,4 @@
-# ddos toll   
+# dos toll   
 
 <details>
 <summary><strong>⚠️ Disclaimer (click to expand)</strong></summary>
